@@ -5,6 +5,7 @@
 | | Actor | What you get |
 |---|---|---|
 | 🏨 | [Google Hotels Scraper](https://apify.com/euroscrape/google-hotels-prices) | Hotel prices on every booking site, rate parity, price calendars, price-drop alerts |
+| 🛫 | [Ryanair Low Fare Finder](https://apify.com/euroscrape/ryanair-low-fares) | Fare calendars, every destination under your price cap, deal alerts |
 | ✈️ | [Google Flights Scraper](https://apify.com/euroscrape/google-flights-prices) | Cheapest day to fly, price calendar, typical price range, CO2, price-drop alerts |
 | 🧾 | [EU VAT Validator (VIES)](https://apify.com/euroscrape/vat-validator) | Bulk checks against the official EU registry, audit proof, deregistration alerts |
 | 🏛️ | [EU Public Tenders Scraper](https://apify.com/euroscrape/eu-public-tenders) | Tenders and contract awards from all of Europe (TED) and France (BOAMP, DECP), winners per lot |
