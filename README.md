@@ -13,6 +13,7 @@
 | ⭐ | [App Store & Google Play Reviews Scraper](https://apify.com/euroscrape/app-reviews) | Reviews from both stores in 58 countries, rating by version, alerts on negative reviews |
 | 🧩 | [Website Tech Stack Detector](https://apify.com/euroscrape/website-intelligence) | 280+ technologies, company identity, contacts and sales signals for any website |
 | ⚖️ | [Impressum & Legal Notice Scraper](https://apify.com/euroscrape/company-identity) | Legal name, registry numbers and VAT IDs from any European website |
+| 🏠 | [France Property Prices (DVF)](https://apify.com/euroscrape/france-property-prices) | Real sold prices, €/m² and trends for any French city, from official records |
 | 🇫🇷 | [French Companies Scraper](https://apify.com/euroscrape/france-companies) | Every French company from SIRENE, with finances, websites and emails |
 | 🇬🇧 | [UK Companies House Scraper](https://apify.com/euroscrape/uk-companies) | UK companies by SIC code and location, with officers, websites and emails |
 | 🇩🇪 | [Kleinanzeigen Scraper](https://apify.com/euroscrape/kleinanzeigen-scraper) | German classifieds with deal score, view counts and instant alerts |
