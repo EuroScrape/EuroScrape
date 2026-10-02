@@ -8,6 +8,7 @@
 | 🛫 | [Ryanair Low Fare Finder](https://apify.com/euroscrape/ryanair-low-fares) | Fare calendars, every destination under your price cap, deal alerts |
 | ✈️ | [Google Flights Scraper](https://apify.com/euroscrape/google-flights-prices) | Cheapest day to fly, price calendar, typical price range, CO2, price-drop alerts |
 | 🧾 | [EU VAT Validator (VIES)](https://apify.com/euroscrape/vat-validator) | Bulk checks against the official EU registry, audit proof, deregistration alerts |
+| ⚡ | [EU Electricity Prices](https://apify.com/euroscrape/eu-electricity-prices) | Day-ahead spot prices for 40+ zones, cheapest 3-hour window, negative-price alerts |
 | 🏛️ | [EU Public Tenders Scraper](https://apify.com/euroscrape/eu-public-tenders) | Tenders and contract awards from all of Europe (TED) and France (BOAMP, DECP), winners per lot |
 | 👗 | [Vinted Scraper](https://apify.com/euroscrape/vinted-scraper) | 26 countries, prices with fees, seller ratings, alerts on new listings and price drops |
 | ♻️ | [EU Second-Hand Marketplaces Scraper](https://apify.com/euroscrape/eu-marketplace-deals) | Vinted, OLX, Marktplaats, Kleinanzeigen… in 18 countries, prices in €, cheapest country |
