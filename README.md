@@ -10,6 +10,7 @@
 | 🧾 | [EU VAT Validator (VIES)](https://apify.com/euroscrape/vat-validator) | Bulk checks against the official EU registry, audit proof, deregistration alerts |
 | ⛽ | [France Fuel Prices](https://apify.com/euroscrape/france-fuel-prices) | Official live prices of every French station, cheapest near you, drop alerts |
 | 🏠 | [France Energy Ratings (DPE)](https://apify.com/euroscrape/france-energy-ratings) | Official energy certificates of French homes, F/G energy sieves by city, new-certificate alerts |
+| 🏗️ | [France Building Permits (Sitadel)](https://apify.com/euroscrape/france-building-permits) | Official building permits: housing programmes and commercial buildings, the developer behind each, alerts when works start |
 | ⚡ | [EU Electricity Prices](https://apify.com/euroscrape/eu-electricity-prices) | Day-ahead spot prices for 40+ zones, cheapest 3-hour window, negative-price alerts |
 | 🏛️ | [EU Public Tenders Scraper](https://apify.com/euroscrape/eu-public-tenders) | Tenders and contract awards from all of Europe (TED) and France (BOAMP, DECP), winners per lot |
 | 👗 | [Vinted Scraper](https://apify.com/euroscrape/vinted-scraper) | 26 countries, prices with fees, seller ratings, alerts on new listings and price drops |
