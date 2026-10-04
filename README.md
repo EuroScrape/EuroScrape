@@ -22,7 +22,7 @@
 | 🛒 | [Trusted Shops Scraper](https://apify.com/euroscrape/trusted-shops-scraper) | Online shops of 11 European markets with company, contacts, rating and review volume; customer reviews; alerts on negative reviews |
 | 🇫🇷 | [French Companies Scraper](https://apify.com/euroscrape/france-companies) | Every French company from SIRENE, with finances, websites and emails |
 | 🇬🇧 | [UK Companies House Scraper](https://apify.com/euroscrape/uk-companies) | UK companies by SIC code and location, with officers, websites and emails |
-| 🆕 | [No-Website Leads](https://apify.com/euroscrape/no-website-leads) | Newly registered companies with no website yet (UK, France, and New York, Colorado, Connecticut), from the official registers, with the creation date of their domain name |
+| 🆕 | [No-Website Leads](https://apify.com/euroscrape/no-website-leads) | Newly registered companies with no website yet (UK, France, and Texas, New York, Colorado, Connecticut), from the official registers, with the creation date of their domain name |
 | 🇩🇪 | [Kleinanzeigen Scraper](https://apify.com/euroscrape/kleinanzeigen-scraper) | Unofficial Kleinanzeigen API: German classifieds with deal score, view counts and instant alerts |
 
 📁 Input templates, real sample outputs and code snippets: [apify-actors](https://github.com/EuroScrape/apify-actors)
