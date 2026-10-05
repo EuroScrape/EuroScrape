@@ -26,4 +26,4 @@
 | 🇩🇪 | [Kleinanzeigen Scraper](https://apify.com/euroscrape/kleinanzeigen-scraper) | Unofficial Kleinanzeigen API: German classifieds with deal score, view counts and instant alerts |
 
 📁 Input templates, real sample outputs and code snippets: [apify-actors](https://github.com/EuroScrape/apify-actors)
-✍️ Tutorials: [euroscrape.hashnode.dev](https://euroscrape.hashnode.dev)
+✍️ Articles & guides: [euroscrape.github.io/apify-actors/articles](https://euroscrape.github.io/apify-actors/articles/)
