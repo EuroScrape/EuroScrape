@@ -27,3 +27,5 @@
 
 📁 Input templates, real sample outputs and code snippets: [apify-actors](https://github.com/EuroScrape/apify-actors)
 ✍️ Articles & guides: [euroscrape.github.io/apify-actors/articles](https://euroscrape.github.io/apify-actors/articles/)
+🤖 For AI agents: [EuroScrape MCP server](https://github.com/EuroScrape/euroscrape-mcp), the twenty Actors as tools, listed in the official MCP registry
+📰 Latest write-ups: [Fridays cost 25% more than Mondays on Ryanair](https://euroscrape.github.io/apify-actors/articles/17-ryanair-fridays.html) · [Duolingo is rated 4.7 in both stores, its newest reviews in Germany average 3.1](https://euroscrape.github.io/apify-actors/articles/18-duolingo-reviews-by-country.html) · [38 of 40 German online shops publish a valid VAT number](https://euroscrape.github.io/apify-actors/articles/16-impressum-40-shops.html)
